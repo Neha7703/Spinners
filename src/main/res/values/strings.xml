@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Q4Spinners</string>
+    <string-array name="flowerimages">
+        <item> Lily</item>
+        <item> Rose</item>
+        <item> Tulip</item>
+    </string-array>
+</resources>
